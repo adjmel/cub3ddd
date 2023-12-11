@@ -1,0 +1,14 @@
+NO ./xpm/wall_3.xpm
+SO ./xpm/crate2_4.xpm
+WE ./xpm/crate3_1.xpm
+EA ./xpm/crate3_2.xpm
+S ./textures/creeper.xpm
+F 21,15,14
+C 19,84,78
+
+111111111
+100000001
+11000W001
+100000001
+100000011
+111111111
